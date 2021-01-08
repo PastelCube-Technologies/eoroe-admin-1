@@ -8,24 +8,10 @@ import Routes from './Routes';
 import * as serviceWorker from './serviceWorker';
 
 import './fonts/Roboto-Black.ttf';
-import './fonts/Roboto-BlackItalic.ttf';
 import './fonts/Roboto-Bold.ttf';
-import './fonts/Roboto-BoldItalic.ttf';
-import './fonts/Roboto-Italic.ttf';
 import './fonts/Roboto-Light.ttf';
-import './fonts/Roboto-LightItalic.ttf';
-import './fonts/Roboto-Medium.ttf';
-import './fonts/Roboto-MediumItalic.ttf';
 import './fonts/Roboto-Regular.ttf';
 import './fonts/Roboto-Thin.ttf';
-import './fonts/Roboto-ThinItalic.ttf';
-import './fonts/Poppins-Medium.ttf';
-import './fonts/Poppins-Bold.ttf';
-import './fonts/Poppins-Regular.ttf';
-import './fonts/Helvetica.ttf';
-import './fonts/Helvetica-Light.ttf';
-import './fonts/Helvetica-Bold.ttf';
-import './fonts/Helvetica-Oblique.ttf';
 
 ReactDOM.render(
   <React.StrictMode>
